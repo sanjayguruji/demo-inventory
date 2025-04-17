@@ -12,3 +12,10 @@ apache.example.com
 apache-two.example.com
 apache-three.example.com
 apache-four.example.com
+
+
+[indai-servers]
+node1.example.com
+node2.example.com
+node3.example.com
+

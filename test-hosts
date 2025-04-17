@@ -1,0 +1,10 @@
+[dev-servers]
+db-one
+db-two
+db-three
+db-foure
+
+[apache-servers]
+apache.example.com
+apache-two.example.com
+apache-three.example.com
